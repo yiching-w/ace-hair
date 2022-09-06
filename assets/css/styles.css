@@ -13010,3 +13010,10 @@ footer.footer {
         left: 32%;
     }
 }
+
+.parking {
+    width: 300px;
+    padding: 10px 0;
+    margin: 10px auto 20px;
+    background-color: #EDE9E3;
+}
