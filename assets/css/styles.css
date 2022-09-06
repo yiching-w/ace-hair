@@ -269,7 +269,7 @@ sup {
 }
 
 a {
-    color: #1D809F;
+    color: #4A3121;
     text-decoration: underline;
 }
 
@@ -12849,7 +12849,6 @@ footer.footer {
     }
 
     .flex-column {
-        flex-direction: unset !important;
         margin-bottom: 2rem !important;
     }
 
